@@ -1,0 +1,33 @@
+---
+title: The Bloved Echo
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 
+tagline: 
+baseurl: 
+sass:
+  sass_dir: _sass
+url: http://belovedecho.com
+navigation:
+- text: Home
+  url: "/"
+- text: About
+  url: "/about/"
+author_name: 
+author_bio: 
+author_url: http://belovedecho.com
+author_location: 
+paginate: 5
+paginate_path: "/blog/page:num/"
+gems:
+- jekyll-paginate
+permalink: pretty
+markdown: kramdown
+kramdown:
+  auto_ids: false
