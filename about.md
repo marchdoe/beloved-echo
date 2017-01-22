@@ -1,18 +1,8 @@
 ---
 title: About
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis egestas
-  turpis id purus dignissim aliquam. Quisque mattis nibh quis convallis dictum.
+description: An about page
 layout: page
 ---
 
-**Beloved Echo** is a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis egestas turpis id purus dignissim aliquam. Quisque mattis nibh quis convallis dictum.
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nunc eros, suscipit porttitor rhoncus at, porttitor eget massa. Cras at libero eget felis efficitur faucibus ut eu metus. In dapibus lacus lorem, vel iaculis elit varius vitae. Suspendisse maximus felis a vehicula volutpat. Etiam blandit molestie justo at lacinia. Sed ac lacus posuere, egestas odio eget, mollis mi. Nunc nisi sapien, maximus nec nisl vel, imperdiet convallis massa.
 
-Maecenas luctus eget nulla eu euismod. Ut vulputate nibh ac fermentum luctus. Vivamus quis cursus dui. Nulla vehicula semper nunc, eget sodales nisl convallis sed. Curabitur luctus erat in elit tristique, a fringilla lorem faucibus. 
-
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis egestas turpis id purus dignissim aliquam. Quisque mattis nibh quis convallis dictum. 
-
-Maecenas luctus eget nulla eu euismod. Ut vulputate nibh ac fermentum luctus. Vivamus quis cursus dui. Nulla vehicula semper nunc, eget sodales nisl convallis sed. Curabitur luctus erat in elit tristique, a fringilla lorem faucibus. 
-
-Morbi nunc dolor, interdum vitae eros nec, vestibulum blandit velit. Ut viverra mi quis purus sagittis maximus. Ut malesuada facilisis tellus, eget vestibulum turpis fermentum et.
-
-*Thank You for reading!*

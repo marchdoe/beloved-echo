@@ -42,7 +42,6 @@
     <!--Create a sorted array of tags-->
     {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
     {% assign sortedTags = site_tags | split:',' | sort %}
-    {% if site.sortedTags %}
     <section class="widget widget-tags">
         <h2 class="widget-title">Tags</h2>
         <div class="tagcloud">
@@ -51,6 +50,5 @@
             {% endfor %}
         </div><!-- .tagcloud -->
     </section><!-- .widget -->
-    {% endif %}
 
 </aside><!-- .sidebar -->
